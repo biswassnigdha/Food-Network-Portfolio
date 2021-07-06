@@ -52,3 +52,35 @@ section{
 .menu img{
       width: 80%;
 }
+.VIEW{
+    width: 100%;
+    display: flex;
+    box-shadow: 5px 5px 30px;
+    padding-left: 30%;
+    margin: 3%;
+    text-align: center;
+    padding-right: 38%;
+}
+#Views{
+    border-left: 7px solid;
+    border-bottom: 7px solid;
+    border-image: linear-gradient(rgb(49, 49, 82),rgb(172, 233, 233));
+    border-image-slice: 2;
+
+}
+.end{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 10%;
+    padding-right: 9%;
+    margin:3% 15%;
+    width: 50%;
+    text-align: center;
+   background-color: black;
+   color: cornsilk;
+   
+}
+
+
+
+
